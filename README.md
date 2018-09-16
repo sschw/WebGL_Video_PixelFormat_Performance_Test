@@ -2,7 +2,7 @@
 
 This project is a modified version of the conformance tests of [WebGL](https://github.com/KhronosGroup/WebGL). It tests the performance of texSubImage2D on videos by calling it 1000 times. After that, it displays the time that was needed to do these calls.
 
-In order to run the tests, call the server script, `server.py` in order to run a server with CORS activated. (Python 3 required)
+In order to run the tests, call the server script `server.py` which will run a server with CORS activated. (Python 3 required)
 
 Use `http://localhost:8000` to reach the test overview page.
 
